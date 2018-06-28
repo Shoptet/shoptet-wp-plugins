@@ -1,0 +1,1 @@
+Collection of Wordpress plugins for use in https://github.com/Shoptet/shoptet-wp-theme
